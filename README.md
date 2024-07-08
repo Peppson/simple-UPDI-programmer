@@ -17,3 +17,5 @@ and another to bypass the 4.7K resistor, which I've found sometimes helps to est
 
 
 ![simple_schematic.png](/simple_schematic.PNG)
+
+  
